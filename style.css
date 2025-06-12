@@ -25,7 +25,7 @@ html {
 .container {
   max-width: 22rem;
   background-color: #fff;
-  margin: 9.6rem auto;
+  margin: 9.6rem auto 3.2rem auto;
   padding: 1.2rem;
   border-radius: 20px;
   justify-content: center;
@@ -93,4 +93,15 @@ html {
 .flex-column {
   display: flex;
   flex-direction: column;
+}
+
+.link:link,
+.link:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link:hover,
+.link:active {
+  color: #f4d04e;
 }

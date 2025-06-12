@@ -27,10 +27,12 @@ html {
   background-color: #fff;
   margin: 9.6rem auto;
   padding: 1.2rem;
-  border-radius: 10px;
+  border-radius: 20px;
   justify-content: center;
-
-  /* NEED TO ADD Border AND Box shadow to the right */
+  border: 1px solid #000;
+  border-bottom: 0;
+  border-right: 0;
+  box-shadow: 0.6rem 0.6rem 0 rgb(0, 0, 0);
 }
 
 .blog-img {

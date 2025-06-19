@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://bsd-rgb.github.io/Blog-Preview-Card/)
+- [Live Site URL](https://bsd-rgb.github.io/Blog-Preview-Card/)
 
 ## My process
 

@@ -25,12 +25,13 @@ Users should be able to:
 
 ![](./assets/images/blog-card-screenshot.png)
 
-Hover State:
+**Hover State:**
+
 ![](./assets/images/blog-card-screenshot-hover.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://bsd-rgb.github.io/Blog-Preview-Card/)
 
 ## My process
 

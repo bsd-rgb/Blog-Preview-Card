@@ -102,6 +102,7 @@ html {
 }
 
 .link:hover,
-.link:active {
+.link:active,
+.link:focus {
   color: #f4d04e;
 }
